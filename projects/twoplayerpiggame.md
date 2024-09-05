@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/twoplayerpiggame.png
 title: "Two Player Pig Game"
 date: 2022-04-08
 published: true
