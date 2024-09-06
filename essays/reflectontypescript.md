@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/catoncomputer.jpg">
 
 ## Prior Knowledge of TypeScript
 Before taking this course, the only languages that I had knowledge in were Java and C and C++ because of the previous ICS course that I have taken. Learning TypeScript comes with a bit of a learning curve but gradually gets easier as time goes on and I am able to get more practice in. I believe that one of the harder parts of learning Computer Science is differentiating the different languages and being able to properly switch between them as you need to. For example, I entered university with no prior knowledge of any language so my first introduction to coding in general was through learning Java in my ICS 111 lecture while, my friend who previously learned Python over the summer before that semester knew a bit more about coding in general but the information was still slightly different than what we were experiencing in class. However, with my previous knowledge and what I have learned in this short amount of time with TypeScript, I would say that TypeScript is a good programming language from a software engineering perspective because using it makes a program easier to manage and maintain. Being that software engineering revolves more around the design and development of applications rather than the code itself, I believe that using TypeScript makes it easier for the programmer to create and develop these projects.
