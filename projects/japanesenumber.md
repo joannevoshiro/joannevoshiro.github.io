@@ -12,7 +12,8 @@ summary: "A project that I created for an ICS 212 assignment."
 ---
 
 The purpose of this code is to count from 0-9999 in a different language. For this instance, I decided to go with Japanese. The code creates separate outputs based on the number (ex. ones, hundreds, thousands). By following these steps heres a section of the code where I count in the hundreds category:
-``
+
+```
 #include<stdio.h>
 
 void printInJapanese(int number) {
@@ -60,4 +61,4 @@ int main() {
 	return 0;
 }
 
-``
+```
