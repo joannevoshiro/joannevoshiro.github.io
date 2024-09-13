@@ -19,3 +19,43 @@ If the player rolls the number chosen at the beginning of the game, they score n
 If the player rolls any other number, it is added to their turn total and the player's turn continues.
 If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 The first player to score 100 or more points wins.
+
+Here is an excerpt from the code:
+```
+ /**
+   * ActionListener for handling the Roll and Hold buttons.
+   */
+  private class ButtonListener implements ActionListener {
+    /*
+     * (non-Javadoc)
+     * 
+     * @see java.awt.event.ActionListener#actionPerformed(java.awt.event.ActionEvent)
+     */
+    @Override
+    
+    // set action for buttons when clicked.
+    public void actionPerformed(ActionEvent e) {
+      if (e.getActionCommand().equalsIgnoreCase("roll")) {
+        dice.roll();
+        doRules();
+      } else if (e.getActionCommand().equalsIgnoreCase("hold")) {
+        currentPlayer.setScore(currentPlayer.getScore() + turnScore);
+        turnScore = 0;
+        if (currentPlayer.getScore() > userWinningTotal) {
+          int choice = JOptionPane.showConfirmDialog(currentPlayer.getParent(),
+              currentPlayer.getName() + " is the winner.\n Do you want to play again?", "Winner",
+              JOptionPane.YES_NO_OPTION);
+          if (choice == JOptionPane.NO_OPTION) {
+            System.exit(0);
+          } else {
+            playGame();
+          }
+        }
+        swapPlayers();
+
+      }
+
+    }
+
+  }
+```
