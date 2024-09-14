@@ -18,7 +18,7 @@ a word, phrase, or name formed by rearranging the letters of another, such as ci
 
 In this program, I call the user to input a word, it takes the word, then outputs all possible anagrams for that word. It is a very simple code.
 Here is the code in its entirety, since it's not much:
-``
+```
 import java.util.Scanner;
 
 /*
@@ -74,8 +74,9 @@ public class PrintAnagrams {
     }
 
 } 
-``
+```
 Here is also an example of how the input and the resulting output would look like:
+```
 Anagrams For: abcd
 abcd
 abdc
@@ -101,3 +102,4 @@ dbac
 dbca
 dcab
 dcba
+```
