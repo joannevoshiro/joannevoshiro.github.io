@@ -12,7 +12,7 @@ labels:
   - VSCode
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/errors.jpeg">
+<img width="150px" class="rounded float-start pe-4" src="../img/error.jpeg">
 
 When coding, I feel like for a while I was only ever focused on if and how the code was run and if it translated the desired output while completely disregarding how each line was formatted. Thinking back, I knew quite a few people who also did the same thing and I believe that it was possibly due to the fact that we weren’t necessarily graded on the style or formatting of the code but rather on the outcome. If the code was runnable and the machine could understand it, it did not matter if it was ugly and disorganized.
 
