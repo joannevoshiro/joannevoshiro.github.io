@@ -4,13 +4,13 @@ type: essay
 title: "Serving Up Code with Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-05
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
 ---
 ## Design Patterns: What are they?
-Design patterns are reusable solutions to common problems that are often encountered in software engineering. These patterns provide a structured approach to solving recurring challenges and promotes a code that is more maintainable, scalable, and efficient. Creational Patterns, Structural Patterns, and Behavioral Patterns are all examples of types of patterns for Object Oriented Design. Some of the most common design patterns are Singleton, Factory Method, Observer, and MVC. MVC (Model-View-Controller) is an example of a design pattern that was used in our final project: UHM Marketplace. <br>
+Design patterns are reusable solutions to common problems that are often encountered in software engineering. These patterns provide a structured approach to solving recurring challenges and promotes a code that is more maintainable, scalable, and efficient. Creational Patterns, Structural Patterns, and Behavioral Patterns are all examples of types of patterns for Object Oriented Design. Some of the most common design patterns are Singleton, Factory Method, Observer, and MVC. MVC (Model-View-Controller) is an example of a design pattern that was used in our final project: UHM Marketplace. The review page is an example of how user inputs are taken and processed through a database and displayed back out onto the user interface for users to view. <br>
 ![](/img/reviews.png)
 ![](/img/reviewsform.png)
 
