@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: "The use of AI in Software Engineering"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-16
+published: true
+labels:
+  - Software Engineering
+  - Learning
+  - ESLint
+  - VSCode
+  - Artifical Intelligence
+---
 ## I. Introduction
 The role of AI in education has very mixed reviews in the sense that many instructors advise not to use any sort of AI when doing their coursework. However, with software engineering, in ICS 314 specifically, we were encouraged to take advantage of many forms of AI to aid our learning process. With this encouragement, I leaned more into using ChatGPT and looked into the benefits of Co-Pilot. The use of AI was very fundamental in my learning experience in software engineering due to its easy access allowing me to ask for help whenever I needed it.
 ## II. Personal Experience with AI:
