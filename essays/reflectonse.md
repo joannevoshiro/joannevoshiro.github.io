@@ -33,3 +33,5 @@ Agile Project Management emphasizes iterative development, flexibility, and clos
 In conclusion, this course has given me a solid foundation in software engineering, teaching me much more than just how to build websites. Concepts like Functional Programming, Development Environments, and Agile Project Management have shown me how software engineering principles can be applied outside of just web development. 
 
 Functional Programming taught me the importance of clarity and immutability in creating reliable code, Development Environments emphasized the value of having the right tools to enhance productivity, and Agile Project Management demonstrated how to effectively organize and execute complex projects. These lessons go far beyond web development, equipping me with skills and approaches I can use in any technical or collaborative context. As I move forward after this course, I’m confident that the knowledge I have gained has given me a strong foundation and will enable me to tackle new challenges and grow as a developer.
+
+<img width="200" class="rounded float-start pe-4" src="../img/thumbsup.jpg">
