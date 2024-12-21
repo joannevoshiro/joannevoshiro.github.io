@@ -4,7 +4,7 @@ type: project
 image: img/anagram.jpeg
 title: "Anagram Printer"
 date: 2021-12-10
-published: true
+published: false
 labels:
   - Java
 summary: "A project that I created for an ICS 111 assignment."
