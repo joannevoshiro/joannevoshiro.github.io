@@ -4,7 +4,7 @@ type: project
 image: img/manoanow1.png
 title: "Mānoa Now Marketplace"
 date: 2024-12-15
-published: false
+published: true
 labels:
   - TypeScript
   - VSCode
@@ -26,8 +26,11 @@ I worked along side one of my other teammates to handle the front-end issues. We
 - **View Account Component:**
   - I buiilt the view account component, enabling users to manage their profiles, view activity, and update personal information.
 
+![](img/reviews.png)
+
 ## What I learned
 After finishing this project, I was able to enhance my front-end development skills, including responsive design and usability while gaining practical experience with implementing user authentication and managing secure user sessions. I was also able to improve my problem-solving skills while creating dynamic components such as the reviews page and account management features. Overall, I learned how to collaborate effectively within a team, balancing tasks and enduring seamless integration of various features.
 
 ## See our final project here!:
+![](img/manoanow1.png)
 [Visit Manoa Marketplace](https://m-n-m-final.vercel.app)
