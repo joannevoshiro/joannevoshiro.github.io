@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The use of AI in Software Engineering"
+title: "Effort Estimation XC"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
