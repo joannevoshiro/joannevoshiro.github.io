@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: "The use of AI in Software Engineering"
+# All dates must be YYYY-MM-DD format!
+date: 2024-12-16
+published: true
+---
+
 **Effort Estimation and Tracking**
 
 Effort estimation and tracking are important parts of managing any project, helping to ensure that tasks are completed on time and resources are used efficiently. By estimating how much time different tasks will take and then tracking the actual time spent, we can improve planning, identify potential issues early, and refine our approach for future projects.
