@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Effort Estimation XC"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-16
+date: 2024-12-20
 published: true
 ---
 
